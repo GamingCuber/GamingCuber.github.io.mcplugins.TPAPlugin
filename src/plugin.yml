@@ -1,0 +1,7 @@
+name: TPAPlugin
+version: 1.0
+main: me.GamingCuber.TPAPlugin.Main
+description: asks a player if they want to teleport to someone.
+
+commands:
+  tp: 
